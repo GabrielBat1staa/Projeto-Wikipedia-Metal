@@ -1,4 +1,4 @@
-# Módulo 3 - Trilha HTML
+# Módulo 3 - Trilha HTML (TERCEIRO PROJETO HTML)
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
 
